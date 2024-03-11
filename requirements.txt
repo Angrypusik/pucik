@@ -1,4 +1,3 @@
-os
 subprocess
 streamlit
 ultralytics
