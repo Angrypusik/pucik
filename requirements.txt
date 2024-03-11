@@ -1,4 +1,4 @@
-subprocess
 streamlit
 ultralytics
-warnings
+altair
+pandas
